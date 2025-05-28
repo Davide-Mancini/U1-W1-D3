@@ -1,0 +1,60 @@
+body{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    
+}
+header{
+    text-align: center;
+    
+}
+header img{
+    width: 200px;
+}
+
+span .top{
+    font-style: bold
+    ;
+    
+}
+.top{
+    color: darkcyan;
+    background-color: bisque;
+}
+
+.fotofocaccia{
+    border-radius: 10px 10px 10px 10px;
+    width: 100%;
+}
+.semi{
+    text-align: center;
+}
+h1 .semi{
+    width: 100;
+}
+.sottofoto{
+    text-align: center;
+    opacity: 0.5;
+  
+}
+.orange{
+    
+    color: orangered;
+    
+    border-left:2px ;
+    border-left-style:solid ;
+    padding-left: 20px;
+    border-color: rgb(255, 206, 188);
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.link{
+    color:rgb(9, 150, 150);
+}
+.spaziatrice{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    color: rgb(153, 230, 235);
+}
